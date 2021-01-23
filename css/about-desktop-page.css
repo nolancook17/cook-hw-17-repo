@@ -1,0 +1,2939 @@
+/* screen - about-desktop-page */
+
+.about-desktop-page {
+  background-color: rgba(255,255,255,1.0);
+  height: 1694px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+.about-desktop-page .about-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Bold', Helvetica, Arial, serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 404px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 291px;
+  width: 1113px;
+}
+.about-desktop-page .about-KN4Zco {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(57,77,162,1.0);
+  font-family: 'Protipo-Bold', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 700;
+  height: 47px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.about-desktop-page .branding-B7CCxD {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 500;
+  height: 47px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.about-desktop-page .c00ked-col-logo-black-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/c00ked-collective-logo-black-1@1x.png);
+  background-size: 100% 100%;
+  height: 122px;
+  left: 140px;
+  opacity: 1;
+  position: absolute;
+  top: 100px;
+  width: 260px;
+}
+.about-desktop-page .component-5-7-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  height: 45px;
+  left: 692px;
+  opacity: 1;
+  position: absolute;
+  top: 138px;
+  width: 262px;
+}
+.about-desktop-page .component-6-7-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  height: 45px;
+  left: 968px;
+  opacity: 1;
+  position: absolute;
+  top: 138px;
+  width: 262px;
+}
+.about-desktop-page .component-7-7-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  height: 45px;
+  left: 1244px;
+  opacity: 1;
+  position: absolute;
+  top: 138px;
+  width: 262px;
+}
+.about-desktop-page .component-8-7-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 45px;
+  left: 1520px;
+  opacity: 1;
+  position: absolute;
+  top: 138px;
+  width: 262px;
+}
+.about-desktop-page .contact-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 278px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1606px;
+  width: 124px;
+}
+.about-desktop-page .copyright-2021-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 899px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1656px;
+  width: 124px;
+}
+.about-desktop-page .group-65-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  height: 505px;
+  left: 690px;
+  opacity: 1;
+  position: absolute;
+  top: 409px;
+  width: 41px;
+}
+.about-desktop-page .group-66-C61RwL {
+  --z-index: 15;
+  background-color: transparent;
+  height: 505px;
+  left: 1191px;
+  opacity: 1;
+  position: absolute;
+  top: 410px;
+  transform: rotate(180deg);
+  width: 41px;
+}
+.about-desktop-page .im-a-ux-de-oy-helping-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: 493px;
+  left: 692px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 970px;
+  width: 538px;
+}
+.about-desktop-page .lets-connect-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Regular', Helvetica, Arial, serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 416px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1530px;
+  width: 1090px;
+}
+.about-desktop-page .line-26-C61RwL {
+  --z-index: 16;
+  background-color: transparent;
+  background-image: url(../img/line-26-1@1x.png);
+  background-size: 100% 100%;
+  height: 3px;
+  left: 1599px;
+  opacity: 1;
+  position: absolute;
+  top: 187px;
+  width: 102px;
+}
+.about-desktop-page .line-43-87p3Hy {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/line-43-1@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  left: 2px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 3px);
+}
+.about-desktop-page .line-43-x6neD3 {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/line-43-1@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  left: 2px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  transform: rotate(-180deg);
+  width: calc(100.00% - 3px);
+}
+.about-desktop-page .line-44-87p3Hy {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/line-44-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+.about-desktop-page .line-44-x6neD3 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/line-44-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  transform: rotate(-180deg);
+  width: 5px;
+}
+.about-desktop-page .linkedin-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 1520px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1606px;
+  width: 124px;
+}
+.about-desktop-page .nolan4-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  background-image: url(../img/nolan4@1x.png);
+  background-size: 100% 100%;
+  height: 462px;
+  left: 729px;
+  opacity: 1;
+  position: absolute;
+  top: 431px;
+  width: 462px;
+}
+.about-desktop-page .path-1-87p3Hy {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-1-1@1x.png);
+  background-size: 100% 100%;
+  bottom: 0px;
+  height: 5px;
+  left: 1px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+.about-desktop-page .path-1-x6neD3 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/path-1-1@1x.png);
+  background-size: 100% 100%;
+  bottom: 0px;
+  height: 5px;
+  left: 1px;
+  opacity: 1;
+  position: absolute;
+  transform: rotate(-180deg);
+  width: 100%;
+}
+.about-desktop-page .photography-PtgZir {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 500;
+  height: 47px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.about-desktop-page .rectangle-25-C61RwL {
+  --z-index: 5;
+  background-color: rgba(245,245,245,1.0);
+  height: 175px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 1519px;
+  width: 1920px;
+}
+.about-desktop-page .resume-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 899px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1605px;
+  width: 124px;
+}
+.about-desktop-page .uxui-Hphtcb {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 500;
+  height: 47px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+/* screen - homepage-desktop */
+
+.homepage-desktop {
+  background-color: rgba(255,255,255,1.0);
+  height: 1080px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+.homepage-desktop .about-kP2rIN {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 500;
+  height: 47px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.homepage-desktop .branding-GJws1M {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 500;
+  height: 47px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.homepage-desktop .c00ked-col-logo-black-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/c00ked-collective-logo-black-1@1x.png);
+  background-size: 100% 100%;
+  height: 122px;
+  left: 140px;
+  opacity: 1;
+  position: absolute;
+  top: 100px;
+  width: 260px;
+}
+.homepage-desktop .component-5-2-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  height: 45px;
+  left: 692px;
+  opacity: 1;
+  position: absolute;
+  top: 138px;
+  width: 262px;
+}
+.homepage-desktop .component-6-2-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  height: 45px;
+  left: 968px;
+  opacity: 1;
+  position: absolute;
+  top: 138px;
+  width: 262px;
+}
+.homepage-desktop .component-7-2-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  height: 45px;
+  left: 1244px;
+  opacity: 1;
+  position: absolute;
+  top: 138px;
+  width: 262px;
+}
+.homepage-desktop .component-8-2-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 45px;
+  left: 1520px;
+  opacity: 1;
+  position: absolute;
+  top: 138px;
+  width: 262px;
+}
+.homepage-desktop .contact-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 278px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 992px;
+  width: 124px;
+}
+.homepage-desktop .copyright-2021-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 899px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1042px;
+  width: 124px;
+}
+.homepage-desktop .im-a-ux-de-nformation-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: 82px;
+  left: 140px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 660px;
+  width: 1090px;
+}
+.homepage-desktop .lets-connect-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Regular', Helvetica, Arial, serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 416px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 916px;
+  width: 1090px;
+}
+.homepage-desktop .linkedin-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 1520px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 992px;
+  width: 124px;
+}
+.homepage-desktop .my-name-is-nolan-cook-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Regular', Helvetica, Arial, serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 140px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 580px;
+  width: 1090px;
+}
+.homepage-desktop .photography-o9vZ8L {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 500;
+  height: 47px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.homepage-desktop .rectangle-25-C61RwL {
+  --z-index: 8;
+  background-color: rgba(245,245,245,1.0);
+  height: 175px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 905px;
+  width: 1920px;
+}
+.homepage-desktop .resume-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 899px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 991px;
+  width: 124px;
+}
+.homepage-desktop .uxui-K2UgDK {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 500;
+  height: 47px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.homepage-desktop .welcome-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 250px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 140px;
+  letter-spacing: 0.00px;
+  line-height: 300px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 280px;
+  white-space: nowrap;
+  width: auto;
+}
+/* screen - uxui-desktop-page */
+
+.uxui-desktop-page {
+  background-color: rgba(255,255,255,1.0);
+  height: 3354px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+.uxui-desktop-page .about-fr332x {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 500;
+  height: 47px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.uxui-desktop-page .branding-8737xL {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 500;
+  height: 47px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.uxui-desktop-page .c00ked-col-logo-black-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/c00ked-collective-logo-black-1@1x.png);
+  background-size: 100% 100%;
+  height: 122px;
+  left: 140px;
+  opacity: 1;
+  position: absolute;
+  top: 100px;
+  width: 260px;
+}
+.uxui-desktop-page .component-5-3-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  height: 45px;
+  left: 692px;
+  opacity: 1;
+  position: absolute;
+  top: 138px;
+  width: 262px;
+}
+.uxui-desktop-page .component-6-3-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  height: 45px;
+  left: 968px;
+  opacity: 1;
+  position: absolute;
+  top: 138px;
+  width: 262px;
+}
+.uxui-desktop-page .component-7-3-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  height: 45px;
+  left: 1244px;
+  opacity: 1;
+  position: absolute;
+  top: 138px;
+  width: 262px;
+}
+.uxui-desktop-page .component-8-3-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  height: 45px;
+  left: 1520px;
+  opacity: 1;
+  position: absolute;
+  top: 138px;
+  width: 262px;
+}
+.uxui-desktop-page .contact-GZmYSZ {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(40.82% - 11px);
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  height: 28px;
+  left: 278px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  width: 124px;
+}
+.uxui-desktop-page .copyright-2021-GZmYSZ {
+  --z-index: 4;
+  background-color: transparent;
+  bottom: 20px;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.94% - 62px);
+  text-align: center;
+  width: 124px;
+}
+.uxui-desktop-page .department-case-study-C61RwL {
+  --z-index: 22;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Bold', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 979px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1438px;
+  width: 262px;
+}
+.uxui-desktop-page .dept-of-ed-logo-rY5zu7 {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/dept-of-ed-logo@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 88px);
+  opacity: 1;
+  position: absolute;
+  right: -69px;
+  top: 88px;
+  width: 526px;
+}
+.uxui-desktop-page .during-my--ded-to-con-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: 449px;
+  left: 400px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 520px;
+  width: 538px;
+}
+.uxui-desktop-page .foreign-fan-logo-iXrPkR {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/foreign-fan-logo@1x.png);
+  background-size: 100% 100%;
+  bottom: 96px;
+  height: 580px;
+  left: 54px;
+  opacity: 1;
+  position: absolute;
+  width: calc(100.00% + 28px);
+}
+.uxui-desktop-page .foriegn-fa-case-study-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Bold', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 968px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 2081px;
+  width: 192px;
+}
+.uxui-desktop-page .group-58-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  height: 175px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 3179px;
+  width: 1920px;
+}
+.uxui-desktop-page .habitat-fo-case-study-C61RwL {
+  --z-index: 19;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Bold', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 968px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 574px;
+  width: 262px;
+}
+.uxui-desktop-page .habitat-logo-png-lqio2O {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/habitat-logo-png@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(48.40% - 230px);
+  height: 476px;
+  left: 34px;
+  opacity: 1;
+  position: absolute;
+  width: calc(100.00% + 830px);
+}
+.uxui-desktop-page .image-5-lY2RgE {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/image-5@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 277px);
+  left: 34px;
+  opacity: 1;
+  position: absolute;
+  top: 139px;
+  width: calc(100.00% + 26px);
+}
+.uxui-desktop-page .image-6-xwQzQP {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/image-6@1x.png);
+  background-size: 100% 100%;
+  bottom: calc(46.58% - 74px);
+  height: 159px;
+  left: 23px;
+  opacity: 1;
+  position: absolute;
+  width: calc(100.00% + 42px);
+}
+.uxui-desktop-page .lets-connect-GZmYSZ {
+  --z-index: 5;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Regular', Helvetica, Arial, serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: 62px;
+  left: 416px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: calc(100.00% - 830px);
+}
+.uxui-desktop-page .line-26-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  background-image: url(../img/line-26-1@1x.png);
+  background-size: 100% 100%;
+  height: 3px;
+  left: 770px;
+  opacity: 1;
+  position: absolute;
+  top: 187px;
+  width: 102px;
+}
+.uxui-desktop-page .linkedin-GZmYSZ {
+  --z-index: 3;
+  background-color: transparent;
+  bottom: calc(40.82% - 11px);
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 1;
+  position: absolute;
+  right: 276px;
+  text-align: center;
+  width: 124px;
+}
+.uxui-desktop-page .mask-group-1-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/mask-group-1@1x.png);
+  background-size: 100% 100%;
+  height: 850px;
+  left: 400px;
+  opacity: 1;
+  position: absolute;
+  top: 1640px;
+  width: 552px;
+}
+.uxui-desktop-page .mask-group-2-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  background-image: url(../img/mask-group-2@1x.png);
+  background-size: 100% 100%;
+  height: 627px;
+  left: 400px;
+  opacity: 1;
+  position: absolute;
+  top: 998px;
+  width: 552px;
+}
+.uxui-desktop-page .mask-group-3-C61RwL {
+  --z-index: 18;
+  background-color: transparent;
+  background-image: url(../img/mask-group-3@1x.png);
+  background-size: 100% 100%;
+  height: 850px;
+  left: 968px;
+  opacity: 1;
+  position: absolute;
+  top: 519px;
+  width: 552px;
+}
+.uxui-desktop-page .mask-group-4-C61RwL {
+  --z-index: 20;
+  background-color: transparent;
+  background-image: url(../img/mask-group-4@1x.png);
+  background-size: 100% 100%;
+  height: 627px;
+  left: 968px;
+  opacity: 1;
+  position: absolute;
+  top: 1384px;
+  width: 552px;
+}
+.uxui-desktop-page .mask-group-5-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  background-image: url(../img/mask-group-5@1x.png);
+  background-size: 100% 100%;
+  height: 850px;
+  left: 968px;
+  opacity: 1;
+  position: absolute;
+  top: 2026px;
+  width: 552px;
+}
+.uxui-desktop-page .mask-group-6-C61RwL {
+  --z-index: 24;
+  background-color: transparent;
+  background-image: url(../img/mask-group-6@1x.png);
+  background-size: 100% 100%;
+  height: 627px;
+  left: 400px;
+  opacity: 1;
+  position: absolute;
+  top: 2505px;
+  width: 552px;
+}
+.uxui-desktop-page .my-starz-s-case-study-C61RwL {
+  --z-index: 16;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Bold', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 400px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1053px;
+  width: 278px;
+}
+.uxui-desktop-page .ncaa-conne-case-study-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Bold', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 400px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1695px;
+  width: 218px;
+}
+.uxui-desktop-page .photography-7XmlVs {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 500;
+  height: 47px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.uxui-desktop-page .rectangle-214-C61RwL {
+  --z-index: 1;
+  background-color: rgba(3,96,186,1.0);
+  height: 850px;
+  left: 400px;
+  opacity: 0.5;
+  position: absolute;
+  top: 1640px;
+  width: 552px;
+}
+.uxui-desktop-page .rectangle-215-C61RwL {
+  --z-index: 15;
+  background-color: rgba(180,1,26,1.0);
+  height: 627px;
+  left: 400px;
+  opacity: 0.5;
+  position: absolute;
+  top: 998px;
+  width: 552px;
+}
+.uxui-desktop-page .rectangle-216-C61RwL {
+  --z-index: 17;
+  background-color: rgba(68,85,211,1.0);
+  height: 850px;
+  left: 968px;
+  opacity: 0.5;
+  position: absolute;
+  top: 519px;
+  width: 552px;
+}
+.uxui-desktop-page .rectangle-217-C61RwL {
+  --z-index: 21;
+  background-color: rgba(51,44,198,1.0);
+  height: 627px;
+  left: 968px;
+  opacity: 0.5;
+  position: absolute;
+  top: 1382px;
+  width: 552px;
+}
+.uxui-desktop-page .rectangle-228-C61RwL {
+  --z-index: 23;
+  background-color: rgba(0,110,172,1.0);
+  height: 850px;
+  left: 968px;
+  opacity: 0.5;
+  position: absolute;
+  top: 2026px;
+  width: 552px;
+}
+.uxui-desktop-page .rectangle-229-C61RwL {
+  --z-index: 25;
+  background-color: rgba(255,83,31,1.0);
+  height: 627px;
+  left: 400px;
+  opacity: 0.5;
+  position: absolute;
+  top: 2505px;
+  width: 552px;
+}
+.uxui-desktop-page .rectangle-25-GZmYSZ {
+  --z-index: 0;
+  background-color: rgba(245,245,245,1.0);
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.uxui-desktop-page .resume-GZmYSZ {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: calc(41.50% - 12px);
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.94% - 62px);
+  text-align: center;
+  width: 124px;
+}
+.uxui-desktop-page .sync-app-u-iness-plan-C61RwL {
+  --z-index: 26;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Bold', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 450px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2560px;
+  width: 218px;
+}
+.uxui-desktop-page .sync-logo-GlB81R {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/sync-logo@1x.png);
+  background-size: 100% 100%;
+  bottom: -47px;
+  height: 577px;
+  opacity: 1;
+  position: absolute;
+  right: -55px;
+  width: 449px;
+}
+.uxui-desktop-page .user-exper-se-studies-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Bold', Helvetica, Arial, serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 404px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 291px;
+  width: 1113px;
+}
+.uxui-desktop-page .uxui-GHj5Ig {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(46,65,138,1.0);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 400;
+  height: 47px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+/* screen - mystarz-social-circle-desktop */
+
+.mystarz-social-circle-desktop {
+  background-color: rgba(255,255,255,1.0);
+  height: 16200px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+.mystarz-social-circle-desktop .about-4hGSDg {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 500;
+  height: 47px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.mystarz-social-circle-desktop .age-of-use-epresented-bc1X8j {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -2px;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 400;
+  height: 92px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% + 2px);
+}
+.mystarz-social-circle-desktop .billy-C61RwL {
+  --z-index: 43;
+  background-color: transparent;
+  background-image: url(../img/billy@1x.png);
+  background-size: 100% 100%;
+  height: 351px;
+  left: 1291px;
+  opacity: 1;
+  position: absolute;
+  top: 6237px;
+  width: 351px;
+}
+.mystarz-social-circle-desktop .billy-love--show-them-C61RwL {
+  --z-index: 46;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: 242px;
+  left: 278px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 6298px;
+  width: 951px;
+}
+.mystarz-social-circle-desktop .both-micha-dered-that-C61RwL {
+  --z-index: 44;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: 327px;
+  left: 279px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 15558px;
+  width: 1364px;
+}
+.mystarz-social-circle-desktop .branding-Gylxb4 {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 500;
+  height: 47px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.mystarz-social-circle-desktop .c00ked-col-logo-black-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/c00ked-collective-logo-black-1@1x.png);
+  background-size: 100% 100%;
+  height: 122px;
+  left: 140px;
+  opacity: 1;
+  position: absolute;
+  top: 100px;
+  width: 260px;
+}
+.mystarz-social-circle-desktop .comp-analy-s-starz-01-C61RwL {
+  --z-index: 70;
+  background-color: transparent;
+  background-image: url(../img/comp-analysis-starz-01@1x.png);
+  background-size: 100% 100%;
+  height: 767px;
+  left: 278px;
+  opacity: 1;
+  position: absolute;
+  top: 11222px;
+  width: 1364px;
+}
+.mystarz-social-circle-desktop .competitor-analysis-C61RwL {
+  --z-index: 53;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: 36px;
+  left: 278px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 11128px;
+  width: 262px;
+}
+.mystarz-social-circle-desktop .component-5-4-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  height: 45px;
+  left: 692px;
+  opacity: 1;
+  position: absolute;
+  top: 138px;
+  width: 262px;
+}
+.mystarz-social-circle-desktop .component-6-4-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  height: 45px;
+  left: 968px;
+  opacity: 1;
+  position: absolute;
+  top: 138px;
+  width: 262px;
+}
+.mystarz-social-circle-desktop .component-7-4-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  height: 45px;
+  left: 1244px;
+  opacity: 1;
+  position: absolute;
+  top: 138px;
+  width: 262px;
+}
+.mystarz-social-circle-desktop .component-8-4-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  height: 45px;
+  left: 1520px;
+  opacity: 1;
+  position: absolute;
+  top: 138px;
+  width: 262px;
+}
+.mystarz-social-circle-desktop .contact-rdL5Qr {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(40.82% - 11px);
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  height: 28px;
+  left: 278px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  width: 124px;
+}
+.mystarz-social-circle-desktop .copyright-2021-rdL5Qr {
+  --z-index: 4;
+  background-color: transparent;
+  bottom: 20px;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.94% - 62px);
+  text-align: center;
+  width: 124px;
+}
+.mystarz-social-circle-desktop .definition-d-ideation-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 646px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 6075px;
+  width: 631px;
+}
+.mystarz-social-circle-desktop .deliverables-C61RwL {
+  --z-index: 26;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: 36px;
+  left: 415px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1688px;
+  width: 1092px;
+}
+.mystarz-social-circle-desktop .design-a-f-experience-C61RwL {
+  --z-index: 20;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: 112px;
+  left: 415px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1542px;
+  width: 1092px;
+}
+.mystarz-social-circle-desktop .ellipse-1-PIEh7b {
+  --z-index: 0;
+  background-color: rgba(217,127,140,1.0);
+  border-radius: 222.5px/223px;
+  height: 100%;
+  left: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 445px;
+}
+.mystarz-social-circle-desktop .ellipse-2-PIEh7b {
+  --z-index: 1;
+  background-color: rgba(217,127,140,1.0);
+  border-radius: 222.5px/223px;
+  height: 100%;
+  left: calc(50.00% - 222px);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 445px;
+}
+.mystarz-social-circle-desktop .ellipse-3-PIEh7b {
+  --z-index: 2;
+  background-color: rgba(217,127,140,1.0);
+  border-radius: 222.5px/223px;
+  height: 100%;
+  opacity: 1;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 445px;
+}
+.mystarz-social-circle-desktop .feature-pr--matrix-01-C61RwL {
+  --z-index: 68;
+  background-color: transparent;
+  background-image: url(../img/feature-proiritization-matrix-01@1x.png);
+  background-size: 100% 100%;
+  height: 767px;
+  left: 278px;
+  opacity: 1;
+  position: absolute;
+  top: 8259px;
+  width: 1364px;
+}
+.mystarz-social-circle-desktop .feature-pr-ion-matrix-C61RwL {
+  --z-index: 50;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: 36px;
+  left: 278px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 8164px;
+  width: 400px;
+}
+.mystarz-social-circle-desktop .flow-4-C61RwL {
+  --z-index: 79;
+  background-color: transparent;
+  background-image: url(../img/flow-4@1x.png);
+  background-size: 100% 100%;
+  height: 443px;
+  left: 278px;
+  opacity: 1;
+  position: absolute;
+  top: 15072px;
+  width: 1364px;
+}
+.mystarz-social-circle-desktop .group-3-PIEh7b {
+  --z-index: 3;
+  background-color: transparent;
+  bottom: calc(49.79% - 112px);
+  height: 225px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 446px;
+}
+.mystarz-social-circle-desktop .group-4-PIEh7b {
+  --z-index: 4;
+  background-color: transparent;
+  bottom: calc(49.71% - 112px);
+  height: 225px;
+  left: calc(49.98% - 223px);
+  opacity: 1;
+  position: absolute;
+  width: 446px;
+}
+.mystarz-social-circle-desktop .group-5-PIEh7b {
+  --z-index: 5;
+  background-color: transparent;
+  bottom: calc(39.53% - 91px);
+  height: 231px;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  width: 446px;
+}
+.mystarz-social-circle-desktop .group-59-C61RwL {
+  --z-index: 80;
+  background-color: transparent;
+  height: 175px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 16025px;
+  width: 1920px;
+}
+.mystarz-social-circle-desktop .group-6-C61RwL {
+  --z-index: 34;
+  background-color: transparent;
+  height: 446px;
+  left: 278px;
+  opacity: 1;
+  position: absolute;
+  top: 2874px;
+  width: 1364px;
+}
+.mystarz-social-circle-desktop .how-might--e-end-of-v-C61RwL {
+  --z-index: 48;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: "Lipa Agate High", Helvetica, Arial, serif;
+  font-size: 28px;
+  height: 527px;
+  left: 280px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 6706px;
+  width: 1364px;
+}
+.mystarz-social-circle-desktop .i-like-C61RwL {
+  --z-index: 61;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 278px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 7416px;
+  width: 427px;
+}
+.mystarz-social-circle-desktop .i-wish-C61RwL {
+  --z-index: 60;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 758px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 7416px;
+  width: 406px;
+}
+.mystarz-social-circle-desktop .ideation-C61RwL {
+  --z-index: 49;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: 36px;
+  left: 276px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 7306px;
+  width: 142px;
+}
+.mystarz-social-circle-desktop .image-2-C61RwL {
+  --z-index: 71;
+  background-color: transparent;
+  background-image: url(../img/image-2@1x.png);
+  background-size: 100% 100%;
+  height: 584px;
+  left: 278px;
+  opacity: 1;
+  position: absolute;
+  top: 12362px;
+  width: 1364px;
+}
+.mystarz-social-circle-desktop .image-3-C61RwL {
+  --z-index: 74;
+  background-color: transparent;
+  background-image: url(../img/image-3@1x.png);
+  background-size: 100% 100%;
+  height: 346px;
+  left: 376px;
+  opacity: 1;
+  position: absolute;
+  top: 14242px;
+  width: 346px;
+}
+.mystarz-social-circle-desktop .image-4-C61RwL {
+  --z-index: 75;
+  background-color: transparent;
+  background-image: url(../img/image-4@1x.png);
+  background-size: 100% 100%;
+  height: 346px;
+  left: 1200px;
+  opacity: 1;
+  position: absolute;
+  top: 14242px;
+  width: 348px;
+}
+.mystarz-social-circle-desktop .in-the-day-h-to-watch-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Bold', Helvetica, Arial, serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 404px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 291px;
+  width: 1113px;
+}
+.mystarz-social-circle-desktop .interview---questions-C61RwL {
+  --z-index: 36;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: 36px;
+  left: 278px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 3380px;
+  width: 1092px;
+}
+.mystarz-social-circle-desktop .interview--urvey-plan-C61RwL {
+  --z-index: 35;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: 36px;
+  left: 278px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 2804px;
+  width: 1092px;
+}
+.mystarz-social-circle-desktop .interview--y-insights-C61RwL {
+  --z-index: 37;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: 36px;
+  left: 278px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 4226px;
+  width: 1092px;
+}
+.mystarz-social-circle-desktop .lets-connect-rdL5Qr {
+  --z-index: 5;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Regular', Helvetica, Arial, serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  height: 62px;
+  left: 416px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: calc(100.00% - 830px);
+}
+.mystarz-social-circle-desktop .line-26-C61RwL {
+  --z-index: 19;
+  background-color: transparent;
+  background-image: url(../img/line-26-1@1x.png);
+  background-size: 100% 100%;
+  height: 3px;
+  left: 770px;
+  opacity: 1;
+  position: absolute;
+  top: 187px;
+  width: 102px;
+}
+.mystarz-social-circle-desktop .line-28-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  background-image: url(../img/line-28@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  left: 892px;
+  opacity: 1;
+  position: absolute;
+  top: 624px;
+  width: 135px;
+}
+.mystarz-social-circle-desktop .line-29-C61RwL {
+  --z-index: 15;
+  background-color: transparent;
+  background-image: url(../img/line-28@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  left: 892px;
+  opacity: 1;
+  position: absolute;
+  top: 2741px;
+  width: 135px;
+}
+.mystarz-social-circle-desktop .line-30-C61RwL {
+  --z-index: 16;
+  background-color: transparent;
+  background-image: url(../img/line-28@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  left: 892px;
+  opacity: 1;
+  position: absolute;
+  top: 6138px;
+  width: 135px;
+}
+.mystarz-social-circle-desktop .line-31-C61RwL {
+  --z-index: 58;
+  background-color: transparent;
+  background-image: url(../img/line-31@1x.png);
+  background-size: 100% 100%;
+  height: 676px;
+  left: 690px;
+  opacity: 1;
+  position: absolute;
+  top: 7401px;
+  width: 3px;
+}
+.mystarz-social-circle-desktop .line-32-C61RwL {
+  --z-index: 59;
+  background-color: transparent;
+  background-image: url(../img/line-31@1x.png);
+  background-size: 100% 100%;
+  height: 676px;
+  left: 1226px;
+  opacity: 1;
+  position: absolute;
+  top: 7401px;
+  width: 3px;
+}
+.mystarz-social-circle-desktop .line-33-C61RwL {
+  --z-index: 17;
+  background-color: transparent;
+  background-image: url(../img/line-28@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  left: 892px;
+  opacity: 1;
+  position: absolute;
+  top: 12222px;
+  width: 135px;
+}
+.mystarz-social-circle-desktop .line-34-C61RwL {
+  --z-index: 18;
+  background-color: transparent;
+  background-image: url(../img/line-28@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  left: 892px;
+  opacity: 1;
+  position: absolute;
+  top: 14102px;
+  width: 135px;
+}
+.mystarz-social-circle-desktop .linkedin-rdL5Qr {
+  --z-index: 3;
+  background-color: transparent;
+  bottom: calc(40.82% - 11px);
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 1;
+  position: absolute;
+  right: 276px;
+  text-align: center;
+  width: 124px;
+}
+.mystarz-social-circle-desktop .max-age-21-C61RwL {
+  --z-index: 63;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1162px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 14609px;
+  width: 427px;
+}
+.mystarz-social-circle-desktop .michael-age-22-C61RwL {
+  --z-index: 62;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 334px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 14609px;
+  width: 427px;
+}
+.mystarz-social-circle-desktop .my-starz-s-case-study-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 646px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 662px;
+  width: 631px;
+}
+.mystarz-social-circle-desktop .phase-1-C61RwL {
+  --z-index: 30;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 646px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 2633px;
+  width: 631px;
+}
+.mystarz-social-circle-desktop .phase-1-us--iterating-C61RwL {
+  --z-index: 24;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: 149px;
+  left: 415px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2330px;
+  width: 1092px;
+}
+.mystarz-social-circle-desktop .phase-2-C61RwL {
+  --z-index: 31;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 646px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 6030px;
+  width: 631px;
+}
+.mystarz-social-circle-desktop .phase-3-C61RwL {
+  --z-index: 32;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 646px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 12114px;
+  width: 631px;
+}
+.mystarz-social-circle-desktop .phase-4-C61RwL {
+  --z-index: 33;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 646px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 13994px;
+  width: 631px;
+}
+.mystarz-social-circle-desktop .photography-3iLy1E {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 500;
+  height: 47px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.mystarz-social-circle-desktop .problem-st-tification-C61RwL {
+  --z-index: 47;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: 36px;
+  left: 276px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 6612px;
+  width: 1092px;
+}
+.mystarz-social-circle-desktop .process-overview-C61RwL {
+  --z-index: 29;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: 36px;
+  left: 415px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2296px;
+  width: 1092px;
+}
+.mystarz-social-circle-desktop .prototyping-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 646px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 12159px;
+  width: 631px;
+}
+.mystarz-social-circle-desktop .rectangle-25-rdL5Qr {
+  --z-index: 0;
+  background-color: rgba(245,245,245,1.0);
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.mystarz-social-circle-desktop .rectangle-26-C61RwL {
+  --z-index: 2;
+  background-color: rgba(180,1,26,1.0);
+  height: 1630px;
+  left: 140px;
+  opacity: 0.5;
+  position: absolute;
+  top: 908px;
+  width: 1640px;
+}
+.mystarz-social-circle-desktop .rectangle-27-C61RwL {
+  --z-index: 0;
+  background-color: rgba(180,1,26,1.0);
+  height: 806px;
+  left: 140px;
+  opacity: 0.5;
+  position: absolute;
+  top: 9345px;
+  width: 1640px;
+}
+.mystarz-social-circle-desktop .rectangle-28-C61RwL {
+  --z-index: 1;
+  background-color: rgba(180,1,26,1.0);
+  height: 791px;
+  left: 140px;
+  opacity: 0.5;
+  position: absolute;
+  top: 15141px;
+  width: 1640px;
+}
+.mystarz-social-circle-desktop .resume-rdL5Qr {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: calc(41.50% - 12px);
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Medium', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.94% - 62px);
+  text-align: center;
+  width: 124px;
+}
+.mystarz-social-circle-desktop .roles-this-rent-roles-C61RwL {
+  --z-index: 27;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: 36px;
+  left: 415px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1840px;
+  width: 1092px;
+}
+.mystarz-social-circle-desktop .s-and-i-ke--takeaways-C61RwL {
+  --z-index: 39;
+  background-color: transparent;
+  background-image: url(../img/s-and-i-key-takeaways@1x.png);
+  background-size: 100% 100%;
+  height: 712px;
+  left: 278px;
+  opacity: 1;
+  position: absolute;
+  top: 4321px;
+  width: 1364px;
+}
+.mystarz-social-circle-desktop .sketches-C61RwL {
+  --z-index: 54;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: 36px;
+  left: 278px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 12268px;
+  width: 262px;
+}
+.mystarz-social-circle-desktop .span0-SK9PGm {
+  font-family: 'LipaAgate High-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.mystarz-social-circle-desktop .span1-SK9PGm {
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.mystarz-social-circle-desktop .span2-SK9PGm {
+  font-family: 'LipaAgate High-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.mystarz-social-circle-desktop .span3-SK9PGm {
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.mystarz-social-circle-desktop .span4-SK9PGm {
+  font-family: 'LipaAgate High-Medium', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.mystarz-social-circle-desktop .span5-SK9PGm {
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.mystarz-social-circle-desktop .starz-open-screen-C61RwL {
+  --z-index: 78;
+  background-color: transparent;
+  background-image: url(../img/starz-open-screen@1x.png);
+  background-size: 100% 100%;
+  height: 675px;
+  left: 414px;
+  opacity: 1;
+  position: absolute;
+  top: 797px;
+  width: 1092px;
+}
+.mystarz-social-circle-desktop .starz-tv-hd-mockup-1-C61RwL {
+  --z-index: 72;
+  background-color: transparent;
+  background-image: url(../img/starz-tv-hd-mockup-1@1x.png);
+  background-size: 100% 100%;
+  height: 673px;
+  left: 415px;
+  opacity: 1;
+  position: absolute;
+  top: 9242px;
+  width: 1090px;
+}
+.mystarz-social-circle-desktop .starz-user-persona-01-C61RwL {
+  --z-index: 40;
+  background-color: transparent;
+  background-image: url(../img/starzuser-persona-01@1x.png);
+  background-size: 100% 100%;
+  height: 767px;
+  left: 278px;
+  opacity: 1;
+  position: absolute;
+  top: 5189px;
+  width: 1364px;
+}
+.mystarz-social-circle-desktop .survey-responses-AFvZLD {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -2px;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 400;
+  height: 47px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% + 2px);
+}
+.mystarz-social-circle-desktop .takeaways--user-tests-C61RwL {
+  --z-index: 57;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: 36px;
+  left: 278px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 14962px;
+  width: 321px;
+}
+.mystarz-social-circle-desktop .testing-an--iterating-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 646px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 14039px;
+  width: 631px;
+}
+.mystarz-social-circle-desktop .the-challenge-C61RwL {
+  --z-index: 25;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: 36px;
+  left: 415px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1508px;
+  width: 1092px;
+}
+.mystarz-social-circle-desktop .the-my-sta--screens-s-C61RwL {
+  --z-index: 45;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: 138px;
+  left: 279px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 9952px;
+  width: 1364px;
+}
+.mystarz-social-circle-desktop .tools-used-C61RwL {
+  --z-index: 28;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: 36px;
+  left: 415px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2014px;
+  width: 1092px;
+}
+.mystarz-social-circle-desktop .user-flow-starz-C61RwL {
+  --z-index: 73;
+  background-color: transparent;
+  background-image: url(../img/user-flow-starz@1x.png);
+  background-size: 100% 100%;
+  height: 769px;
+  left: 278px;
+  opacity: 1;
+  position: absolute;
+  top: 13100px;
+  width: 1364px;
+}
+.mystarz-social-circle-desktop .user-insig--statement-C61RwL {
+  --z-index: 42;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: 36px;
+  left: 276px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 6202px;
+  width: 1092px;
+}
+.mystarz-social-circle-desktop .user-persona-C61RwL {
+  --z-index: 41;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: 36px;
+  left: 276px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 5094px;
+  width: 1092px;
+}
+.mystarz-social-circle-desktop .user-research-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 646px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 2678px;
+  width: 631px;
+}
+.mystarz-social-circle-desktop .user-scena-o-starz-01-C61RwL {
+  --z-index: 69;
+  background-color: transparent;
+  background-image: url(../img/user-scenario-starz-01@1x.png);
+  background-size: 100% 100%;
+  height: 767px;
+  left: 278px;
+  opacity: 1;
+  position: absolute;
+  top: 10300px;
+  width: 1364px;
+}
+.mystarz-social-circle-desktop .user-scenario-C61RwL {
+  --z-index: 52;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: 36px;
+  left: 276px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 10226px;
+  width: 187px;
+}
+.mystarz-social-circle-desktop .user-testi-candidates-C61RwL {
+  --z-index: 56;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: 36px;
+  left: 278px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 14148px;
+  width: 291px;
+}
+.mystarz-social-circle-desktop .uxui-gd86ht {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(46,65,138,1.0);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 400;
+  height: 47px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.mystarz-social-circle-desktop .value-proposition-C61RwL {
+  --z-index: 51;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: 36px;
+  left: 276px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 9144px;
+  width: 264px;
+}
+.mystarz-social-circle-desktop .what-if-C61RwL {
+  --z-index: 64;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1228px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 7416px;
+  width: 416px;
+}
+.mystarz-social-circle-desktop .wireframe-user-flow-C61RwL {
+  --z-index: 55;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: 36px;
+  left: 278px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 13006px;
+  width: 262px;
+}
+.mystarz-social-circle-desktop .x-frequent--een-before-C61RwL {
+  --z-index: 77;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: 289px;
+  left: 1106px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 14666px;
+  width: 538px;
+}
+.mystarz-social-circle-desktop .x-i-could-g-content-al-C61RwL {
+  --z-index: 66;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: 499px;
+  left: 761px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 7486px;
+  width: 400px;
+}
+.mystarz-social-circle-desktop .x-link-my-s--starz-app-C61RwL {
+  --z-index: 67;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: 221px;
+  left: 1272px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 7490px;
+  width: 372px;
+}
+.mystarz-social-circle-desktop .x-normal-vi--recommend-C61RwL {
+  --z-index: 76;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: 237px;
+  left: 278px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 14666px;
+  width: 538px;
+}
+.mystarz-social-circle-desktop .x-personali-to-the-pan-C61RwL {
+  --z-index: 65;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: 577px;
+  left: 278px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 7486px;
+  width: 400px;
+}
+.mystarz-social-circle-desktop .x1-1-interviews-0Wn9XG {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -2px;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 400;
+  height: 47px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% + 2px);
+}
+.mystarz-social-circle-desktop .x1-starz-ap-ogle-forms-C61RwL {
+  --z-index: 23;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: 213px;
+  left: 415px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2048px;
+  width: 1092px;
+}
+.mystarz-social-circle-desktop .x1-ux-resea-x-designer-C61RwL {
+  --z-index: 22;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: 106px;
+  left: 415px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1874px;
+  width: 1092px;
+}
+.mystarz-social-circle-desktop .x1-what-tv---content-c-C61RwL {
+  --z-index: 38;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: 716px;
+  left: 280px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 3450px;
+  width: 1363px;
+}
+.mystarz-social-circle-desktop .x1-written---wireframe-C61RwL {
+  --z-index: 21;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'LipaAgate High-Regular', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: 85px;
+  left: 415px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1722px;
+  width: 1092px;
+}
+.mystarz-social-circle-desktop .x18-65-bc1X8j {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 400;
+  height: 122px;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 100px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% - 39px);
+}
+.mystarz-social-circle-desktop .x5-0Wn9XG {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 150px;
+  font-style: normal;
+  font-weight: 400;
+  height: 182px;
+  letter-spacing: 0.00px;
+  line-height: 150px;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.25% - 89px);
+  text-align: center;
+  top: 0px;
+  width: 181px;
+}
+.mystarz-social-circle-desktop .x63-AFvZLD {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Protipo-Semibold', Helvetica, Arial, serif;
+  font-size: 150px;
+  font-style: normal;
+  font-weight: 400;
+  height: 182px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 150px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: calc(100.00% - 199px);
+}
